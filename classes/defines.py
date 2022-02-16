@@ -12,15 +12,15 @@ def getCreds() :
 	"""
 
     creds = dict()
-    creds['access_token'] = 'EAAVZCXsXLPp4BADv30ThCC5E3aY0MgrkasHjcUVz93FiXbURd0v9sLZBAUly9LElZCFrHpsiTMHVH9zhHy9LHUh1pTlVZCkcUWFKWG7nhfxYaiGEaFHLW3OHXGJfZBswFmITBrbUErajYye7iWFH8Vr4AGyW57pacFZAw4hvFUrQZDZD'
-    creds['client_id'] = '1547419905638046'
-    creds['client_secret'] = 'aa60b48a9402df4fb38d4f50ce5340a5'
+    creds['access_token'] = ''
+    creds['client_id'] = ''
+    creds['client_secret'] = ''
     creds['graph_domain'] = 'https://graph.facebook.com/'
     creds['graph_version'] = 'v13.0'
     creds['endpoint_base'] = creds['graph_domain'] + creds['graph_version'] + '/'
     creds['debug'] = 'no'
-    creds['page_id'] = '5621298371229891'
-    creds['instagram_account_id'] = '17841401086937190'
+    creds['page_id'] = ''
+    creds['instagram_account_id'] = ''
 
     return creds
 
